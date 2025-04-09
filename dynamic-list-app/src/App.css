@@ -33,7 +33,7 @@ button {
   margin: 0;
   font-size: 16px;
   cursor: pointer;
-  background-color: #70ccb5;
+  background-color: #108165;
   color: white;
   border: none;
   border-radius: 0 5px 5px 0;
@@ -71,7 +71,7 @@ button {
 }
 h1{ 
   text-align: center;
-  color: #20a398;
+  color: #157a69;
   margin-bottom: 20px;
   font-size: 2.0rem;
 }
